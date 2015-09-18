@@ -588,7 +588,7 @@ Esta configuración se restablecerá al reiniciar el dispositivo</string>
   <string name="doze_brightness_title">Nivel de brillo de la visualización ambiental</string>
   <string name="doze_brightness_summary">Nivel de brillo de la pantalla de visualización ambiental (% del brillo máximo permitido)</string>
   <string name="navigation_settings_options_title">Opciones de navegación</string>
-  <string name="button_keys_title">Botones hardware</string>
+  <string name="button_keys_title">Botones físicos</string>
   <string name="keys_bindings_title">Acciones de las teclas</string>
   <string name="keys_enable_custom_title">Activar acciones personalizadas</string>
   <string name="keys_enable_custom_summary">Activar acciones personalizadas de teclas de hardware</string>
@@ -916,4 +916,8 @@ Esta configuración se restablecerá al reiniciar el dispositivo</string>
   <string name="performance_set_on_boot_summary">Restaurar la configuración al iniciar</string>
   <string name="autoperf_title">Activar los perfiles por aplicación</string>
   <string name="autoperf_summary">Elegir automáticamente el perfil de rendimiento adecuado para diversas aplicaciones</string>
+
+  <!-- LollipOS -->
+   <string name="connection_manager">Gestor de conexiones</string>
+
 </resources>

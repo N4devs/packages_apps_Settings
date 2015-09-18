@@ -73,4 +73,13 @@
         android:targetClass="com.cyanogenmod.lockclock.preference.Preferences" />
     </PreferenceScreen>
 
+    <!-- Connection Manager -->
+    <PreferenceScreen
+        android:key="connection_manager"
+        android:title="@string/connection_manager">
+        <intent android:action="android.intent.action.MAIN"
+        	android:targetPackage="com.kisler.connectionmanager"
+        	android:targetClass="com.kisler.connectionmanager.Main" />
+    </PreferenceScreen>
+
 </PreferenceScreen>

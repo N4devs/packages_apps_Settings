@@ -1407,6 +1407,11 @@
     <string name="status_bar_show_weather_title">Show weather</string>
     <string name="status_bar_show_weather_summary">Show the weather in the status bar header</string>
     <string name="lock_clock_title">cLock</string>
+
+    <!-- LollipOS -->
+   <string name="connection_manager">Connection Manager</string>
+   <string name="ota_center">OTA Center</string>
+   <string name="bitsyko_layers">Layers</string>
     
 
 </resources>
