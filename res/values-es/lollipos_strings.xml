@@ -181,7 +181,7 @@
 	<string name="increasing_ring_min_volume_title">Volúmen de inicio</string>
 	<string name="increasing_ring_ramp_up_time_title">Tiempo de volúmen ascendente</string>
 
-	<string name="status_bar_show_weather_title">Mostrar tiempo</string>
+	<string name="status_bar_show_weather_title">Barra de estado</string>
 	<string name="status_bar_show_weather_summary">Mostrar el tiempo en la barra de estado</string>
 
 	<string name="reset_to_default">Restablecer los valores por defecto?</string>
@@ -190,8 +190,8 @@
 	<string name="colors_title">Colores</string>
 	<string name="text_title">Texto</string>
 	<string name="icons_title">Iconos</string>
-	<string name="lock_screen_weather_settings_title">Tiempo en pantalla de bloqueo</string>
-	<string name="weather_show_weather_title">Mostrar tiempo</string>
+	<string name="lock_screen_weather_settings_title">Ajustes del clima</string>
+	<string name="weather_show_weather_title">Bloqueo de pantalla</string>
 	<string name="weather_show_weather_summary">Habilitar para mostrar información del tiempo</string>
 	<string name="weather_show_location_title">Mostrar ubicación</string>
 	<string name="weather_show_location_summary">Habilitar para mostrar la ubicación</string>
@@ -207,5 +207,13 @@
 
 	<string name="screen_off_gesture_settings_title">Gestos con pantalla apagada</string>
 
+   	<string name="ring_notification_volume_option_tile">Volumen de timbre y notificación</string>
+	<string name="link_volume_option_title">Enlazar volumen de timbre y notificación</string>
+
+	<!-- Zen Mode -->
+   	<string name="zen_mode_none_category">Sin interrupciones</string>
+    	<string name="zen_mode_alarms">Permitir alarmas</string>
+	<string name="zen_mode_none_category">Sin interrupciones</string>
+	<string name="allow_lights_title">Permitir luz de notificación</string>
 
 </resources>
